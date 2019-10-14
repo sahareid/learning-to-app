@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learningtocode.Android", "learningtocode.Android\learningtocode.Android.csproj", "{66F2948B-D417-42EF-9A30-A7EF148B0D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learningtocode", "learningtocode\learningtocode.csproj", "{273F4D84-28B5-4705-A394-AE4C9DC52637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F2948B-D417-42EF-9A30-A7EF148B0D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F2948B-D417-42EF-9A30-A7EF148B0D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F2948B-D417-42EF-9A30-A7EF148B0D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F2948B-D417-42EF-9A30-A7EF148B0D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273F4D84-28B5-4705-A394-AE4C9DC52637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273F4D84-28B5-4705-A394-AE4C9DC52637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273F4D84-28B5-4705-A394-AE4C9DC52637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273F4D84-28B5-4705-A394-AE4C9DC52637}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
